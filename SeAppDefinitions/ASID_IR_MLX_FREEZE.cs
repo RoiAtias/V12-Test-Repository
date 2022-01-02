@@ -18,7 +18,7 @@ namespace SE.ErrorsDefinitions.ErrorEvents
 		
 		[SensorIDParam1]
 		
-        public SensorID Sensor1 { get; }
+        public SensorID Sensor12 { get; }
 
     }
 }
