@@ -17,7 +17,7 @@ namespace SE.ErrorsDefinitions.ErrorEvents
         public SensorID1 Sensor { get; }
 	
 		[SensorIDParam1]
-        public SensorID2 Sensor1 { get; }
+        public SensorID2 Sensor12 { get; }
 	
 	    [Param("DspErrorBits", ParamMapping.IntParam1, ParamUnit.NoUnits)]
         public int DspErrorBits { get; }
